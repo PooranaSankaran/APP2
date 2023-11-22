@@ -36,4 +36,4 @@ with col4:
         st.image('images/' + row['image'])
         st.write(f"[Source code] ({row['url']}")
 
-#page 2 web app in contact_us.py
+#page 2 web app inn contact_us.py
